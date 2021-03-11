@@ -1,0 +1,2 @@
+FLASK_APP=events_planner.py
+FLASK_ENV=development
